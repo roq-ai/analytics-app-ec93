@@ -1,0 +1,2572 @@
+[
+  {
+    "product": [
+      {
+        "id": "c8e52343-df3a-4b7d-bace-2e6a7af04d0f",
+        "product_name": "Handcrafted Leather Wallet",
+        "product_price": 87534,
+        "product_description": "A stylish and functional accessory",
+        "product_stock": 36353,
+        "created_at": "2023-09-14T10:14:42.330Z",
+        "updated_at": "2023-09-14T17:33:20.310Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "d6078279-d48c-4e90-8945-d0e942835ddc",
+        "product_name": "Organic Cotton T-Shirt",
+        "product_price": 10596,
+        "product_description": "Made from sustainable materials",
+        "product_stock": 94951,
+        "created_at": "2023-09-15T00:02:56.790Z",
+        "updated_at": "2023-09-14T08:56:05.854Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "5e53a752-6c05-4427-b018-16d0b78fc6fd",
+        "product_name": "Artisanal Ceramic Mug",
+        "product_price": 7064,
+        "product_description": "Perfect for enjoying your favorite hot beverage",
+        "product_stock": 67830,
+        "created_at": "2023-09-14T10:08:51.770Z",
+        "updated_at": "2023-09-14T18:44:13.399Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f482eece-a16e-4e0b-a245-5ca3408b9813",
+        "product_name": "Natural Soy Candle",
+        "product_price": 6998,
+        "product_description": "Infused with calming essential oils",
+        "product_stock": 41030,
+        "created_at": "2023-09-14T22:31:03.577Z",
+        "updated_at": "2023-09-15T03:16:25.122Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "10588e67-27fc-410b-a3eb-11c17949fcc0",
+        "product_name": "Handmade Soap Set",
+        "product_price": 64702,
+        "product_description": "Gentle and nourishing for your skin",
+        "product_stock": 58132,
+        "created_at": "2023-09-14T17:54:40.352Z",
+        "updated_at": "2023-09-15T05:36:27.863Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "cd42c69d-5748-4163-a4a7-914ef2337988",
+        "order_amount": 20469,
+        "order_date": "2023-09-14T10:34:49.588Z",
+        "order_status": "Pending",
+        "order_number": "#12345",
+        "created_at": "2023-09-14T17:29:56.982Z",
+        "updated_at": "2023-09-15T04:43:29.776Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c7b47560-43a0-466c-995a-c73614117a60",
+        "order_amount": 85439,
+        "order_date": "2023-09-15T01:29:16.183Z",
+        "order_status": "Processing",
+        "order_number": "#67890",
+        "created_at": "2023-09-14T10:42:18.707Z",
+        "updated_at": "2023-09-14T22:41:14.593Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "19eeb154-1889-45d2-bb0d-d7bb35d537e6",
+        "order_amount": 82452,
+        "order_date": "2023-09-15T04:10:24.618Z",
+        "order_status": "Shipped",
+        "order_number": "#24680",
+        "created_at": "2023-09-14T18:42:38.220Z",
+        "updated_at": "2023-09-14T08:48:53.933Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "fa632ff4-42e9-44c7-b89d-d10293689a49",
+        "order_amount": 8903,
+        "order_date": "2023-09-14T13:58:17.389Z",
+        "order_status": "Delivered",
+        "order_number": "#13579",
+        "created_at": "2023-09-15T00:28:15.369Z",
+        "updated_at": "2023-09-15T00:13:40.886Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "4914b242-2b59-498c-9423-cebc3ef687f2",
+        "order_amount": 73219,
+        "order_date": "2023-09-14T09:43:28.991Z",
+        "order_status": "Cancelled",
+        "order_number": "#98765",
+        "created_at": "2023-09-15T08:26:28.346Z",
+        "updated_at": "2023-09-14T16:21:56.266Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "1af0ac4f-f118-48e2-b44e-a4ddecec2272",
+        "current_day_sales": 63590,
+        "week_to_date_sales": 50672,
+        "average_order_amount": 52063,
+        "total_orders": 43744,
+        "created_at": "2023-09-15T05:52:35.485Z",
+        "updated_at": "2023-09-15T05:46:17.986Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "a8d3dba0-6cbe-4728-9d39-93a887490d5d",
+        "current_day_sales": 65275,
+        "week_to_date_sales": 37082,
+        "average_order_amount": 46773,
+        "total_orders": 55633,
+        "created_at": "2023-09-15T06:21:39.616Z",
+        "updated_at": "2023-09-15T00:48:07.369Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "d8a5b69d-0f2a-421a-b0a8-aec5151d1bc8",
+        "current_day_sales": 77127,
+        "week_to_date_sales": 9185,
+        "average_order_amount": 70024,
+        "total_orders": 40682,
+        "created_at": "2023-09-14T08:46:57.705Z",
+        "updated_at": "2023-09-15T01:22:53.879Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "4c9bb4f5-f9f1-4555-9d8d-6e2602075813",
+        "current_day_sales": 79834,
+        "week_to_date_sales": 62331,
+        "average_order_amount": 26759,
+        "total_orders": 18534,
+        "created_at": "2023-09-14T16:39:48.598Z",
+        "updated_at": "2023-09-14T08:57:19.815Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8ad66972-811a-4f7a-b59a-154e02b1baf4",
+        "current_day_sales": 87735,
+        "week_to_date_sales": 90481,
+        "average_order_amount": 99239,
+        "total_orders": 39113,
+        "created_at": "2023-09-14T14:39:47.684Z",
+        "updated_at": "2023-09-14T22:22:37.825Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "2b2db635-ece1-4171-9cb1-f8eae9e5b586",
+        "customer_name": "John Doe",
+        "customer_email": "johndoe@gmail.com",
+        "customer_phone": "123-456-7890",
+        "customer_address": "123 Main St",
+        "created_at": "2023-09-15T08:20:03.798Z",
+        "updated_at": "2023-09-14T13:00:30.810Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "3e5546fe-919e-4c29-979b-d46235434b02",
+        "customer_name": "Jane Smith",
+        "customer_email": "janesmith@yahoo.com",
+        "customer_phone": "555-123-4567",
+        "customer_address": "456 Elm St",
+        "created_at": "2023-09-15T05:30:56.331Z",
+        "updated_at": "2023-09-14T17:16:53.629Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "0c5fc199-006b-4a82-b60c-0053bf32e7e8",
+        "customer_name": "Alex Johnson",
+        "customer_email": "alexjohnson@hotmail.com",
+        "customer_phone": "987-654-3210",
+        "customer_address": "789 Oak Ave",
+        "created_at": "2023-09-14T21:55:59.055Z",
+        "updated_at": "2023-09-15T02:59:02.693Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "fe166060-e879-4dae-b964-e717a62da810",
+        "customer_name": "Emily Sullivan",
+        "customer_email": "emilysullivan@gmail.com",
+        "customer_phone": "246-802-4680",
+        "customer_address": "246 Pine St",
+        "created_at": "2023-09-14T16:36:53.613Z",
+        "updated_at": "2023-09-14T18:54:37.122Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "cd7dca2f-4df3-4359-8033-371663b15fea",
+        "customer_name": "Michael Brown",
+        "customer_email": "michaelbrown@yahoo.com",
+        "customer_phone": "135-791-3579",
+        "customer_address": "135 Maple Ave",
+        "created_at": "2023-09-15T03:22:42.136Z",
+        "updated_at": "2023-09-14T22:00:29.623Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7c8286a6-1288-4e0f-b348-5d0b1535aa78",
+        "email": "Ryann62@yahoo.com",
+        "firstName": "Adella",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75728598",
+        "tenantId": null
+      },
+      {
+        "reference": "9a927460-d79c-4072-b558-2f8094f06dd8",
+        "email": "Kole_Yundt36@yahoo.com",
+        "firstName": "Marc",
+        "lastName": "Daniel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/393.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1ea9c438-cc11-490f-9d1d-62c86d2c0103",
+        "email": "Noemy46@hotmail.com",
+        "firstName": "Larue",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78008230",
+        "tenantId": null
+      },
+      {
+        "reference": "eca635e4-95d2-4d2c-9c8e-ff90c70f4b67",
+        "email": "Tyreek50@hotmail.com",
+        "firstName": "Carmine",
+        "lastName": "Quitzon",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/341.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6934cfcf-b08c-4c92-b6f6-d039fec139f4",
+        "email": "Emilio_Roob@hotmail.com",
+        "firstName": "Araceli",
+        "lastName": "Kuphal",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/974.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "f936761d-a67b-436e-ba81-1c8d6c2c36f8",
+        "product_name": "Handcrafted Leather Wallet",
+        "product_price": 61717,
+        "product_description": "Genuine leather wallet with multiple card slots",
+        "product_stock": 41977,
+        "created_at": "2023-09-14T12:37:48.984Z",
+        "updated_at": "2023-09-15T07:03:09.974Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "25529a76-8f5e-4de3-b11b-9be4573dd0bf",
+        "product_name": "Organic Lavender Soap",
+        "product_price": 78893,
+        "product_description": "Luxurious lavender soap made with organic ingredients",
+        "product_stock": 9208,
+        "created_at": "2023-09-15T02:02:05.347Z",
+        "updated_at": "2023-09-15T06:08:43.156Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "4da39be5-8358-4345-85fd-ffd5c8b65cde",
+        "product_name": "Vintage Polaroid Camera",
+        "product_price": 92246,
+        "product_description": "Classic Polaroid camera in excellent condition",
+        "product_stock": 9821,
+        "created_at": "2023-09-14T10:55:06.911Z",
+        "updated_at": "2023-09-14T17:49:24.815Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e866a896-b51f-4e18-ae6e-c0424eb5e5df",
+        "product_name": "Wooden Cutting Board",
+        "product_price": 20373,
+        "product_description": "Durable wooden cutting board for all your culinary needs",
+        "product_stock": 49382,
+        "created_at": "2023-09-14T19:00:15.036Z",
+        "updated_at": "2023-09-14T17:33:57.886Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c6b9d050-74cb-42b3-a791-27599c126a45",
+        "product_name": "Designer Sunglasses",
+        "product_price": 46087,
+        "product_description": "Stylish sunglasses with UV protection",
+        "product_stock": 72494,
+        "created_at": "2023-09-15T02:07:17.458Z",
+        "updated_at": "2023-09-14T09:49:40.776Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "66250347-9971-4c7e-ab13-634b48c9b084",
+        "order_amount": 90002,
+        "order_date": "2023-09-15T04:29:07.503Z",
+        "order_status": "Pending",
+        "order_number": "20210001",
+        "created_at": "2023-09-14T13:22:14.964Z",
+        "updated_at": "2023-09-14T16:19:33.805Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "61bd7675-4193-4724-8af4-67c7e2203049",
+        "order_amount": 51557,
+        "order_date": "2023-09-14T22:42:33.788Z",
+        "order_status": "Processing",
+        "order_number": "20210002",
+        "created_at": "2023-09-15T00:24:32.379Z",
+        "updated_at": "2023-09-15T05:40:30.092Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "d51ab1ca-006d-4655-9067-19db11764009",
+        "order_amount": 55148,
+        "order_date": "2023-09-15T07:24:38.586Z",
+        "order_status": "Shipped",
+        "order_number": "20210003",
+        "created_at": "2023-09-15T08:18:36.421Z",
+        "updated_at": "2023-09-14T21:30:57.941Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "b8b4e3a4-c091-42d7-80fe-7042db71d66c",
+        "order_amount": 29380,
+        "order_date": "2023-09-14T17:51:58.559Z",
+        "order_status": "Delivered",
+        "order_number": "20210004",
+        "created_at": "2023-09-14T10:27:49.478Z",
+        "updated_at": "2023-09-15T00:00:28.918Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "fa23efde-79e3-45e1-9fb8-67b98c71e6e9",
+        "order_amount": 12469,
+        "order_date": "2023-09-14T13:19:33.526Z",
+        "order_status": "Cancelled",
+        "order_number": "20210005",
+        "created_at": "2023-09-15T05:30:17.362Z",
+        "updated_at": "2023-09-14T09:03:33.319Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "c6436136-f912-431c-9916-d798ff52e61f",
+        "current_day_sales": 92926,
+        "week_to_date_sales": 98695,
+        "average_order_amount": 52593,
+        "total_orders": 5327,
+        "created_at": "2023-09-15T00:39:53.618Z",
+        "updated_at": "2023-09-15T05:37:17.994Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "53fdcf4e-a8c2-4233-bca6-91ca46653e40",
+        "current_day_sales": 88193,
+        "week_to_date_sales": 37778,
+        "average_order_amount": 69260,
+        "total_orders": 94635,
+        "created_at": "2023-09-14T22:28:07.144Z",
+        "updated_at": "2023-09-14T10:13:33.754Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "deca0c93-3586-4439-91a9-0bf7527d5751",
+        "current_day_sales": 1232,
+        "week_to_date_sales": 69752,
+        "average_order_amount": 29629,
+        "total_orders": 23721,
+        "created_at": "2023-09-14T09:00:32.615Z",
+        "updated_at": "2023-09-14T20:28:09.451Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8b70991b-f105-4459-8263-00a5126fc9f5",
+        "current_day_sales": 13241,
+        "week_to_date_sales": 56617,
+        "average_order_amount": 44624,
+        "total_orders": 19849,
+        "created_at": "2023-09-14T12:11:37.331Z",
+        "updated_at": "2023-09-15T01:42:42.013Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "5e03d030-71a8-45c6-8bd6-88d91ec8b806",
+        "current_day_sales": 33102,
+        "week_to_date_sales": 6727,
+        "average_order_amount": 68129,
+        "total_orders": 16655,
+        "created_at": "2023-09-14T16:24:55.346Z",
+        "updated_at": "2023-09-14T09:55:03.571Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "4e56182b-db51-48cb-8c6b-9e7e9226f631",
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "customer_phone": "123-456-7890",
+        "customer_address": "123 Main St, Anytown, USA",
+        "created_at": "2023-09-14T22:51:09.071Z",
+        "updated_at": "2023-09-15T06:12:55.877Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "a8042692-2f03-45fe-b687-8cd89b5e783b",
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_phone": "987-654-3210",
+        "customer_address": "456 Elm St, Cityville, USA",
+        "created_at": "2023-09-14T21:08:00.614Z",
+        "updated_at": "2023-09-14T10:06:52.978Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "74a1d0c6-97c8-469c-b8d6-0ac148b791e4",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "555-123-4567",
+        "customer_address": "789 Oak St, Villageton, USA",
+        "created_at": "2023-09-14T11:24:39.952Z",
+        "updated_at": "2023-09-14T22:02:13.252Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "7c1de681-c81a-4146-ab50-d826aa3cbe95",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "999-888-7777",
+        "customer_address": "321 Pine St, Townsville, USA",
+        "created_at": "2023-09-15T02:04:04.401Z",
+        "updated_at": "2023-09-15T05:16:05.014Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "5453950c-5b45-4d24-84ed-ecdbeab98444",
+        "customer_name": "Robert Wilson",
+        "customer_email": "robert.wilson@example.com",
+        "customer_phone": "111-222-3333",
+        "customer_address": "555 Maple St, Boroughville, USA",
+        "created_at": "2023-09-14T20:32:44.739Z",
+        "updated_at": "2023-09-15T03:31:23.923Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f7965c63-c567-48d3-8f23-d8d318a5fa57",
+        "email": "Emily.Cronin@gmail.com",
+        "firstName": "Fleta",
+        "lastName": "Carroll",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/534.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "52a202b1-d071-48fe-821c-b60cd2917494",
+        "email": "Roger66@yahoo.com",
+        "firstName": "Jennyfer",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/932.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b05141d8-39db-4ed1-9916-70e4539e0a01",
+        "email": "Titus75@yahoo.com",
+        "firstName": "Lexus",
+        "lastName": "Murphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/130.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "43504c15-f13c-4bbf-bc4f-1a0a1ab0eed1",
+        "email": "Benny84@hotmail.com",
+        "firstName": "Shanelle",
+        "lastName": "Greenholt-Wintheiser",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70033501",
+        "tenantId": null
+      },
+      {
+        "reference": "4a2ac90c-964d-4a63-9105-3f68bd392408",
+        "email": "Anna_Ziemann75@yahoo.com",
+        "firstName": "Ilene",
+        "lastName": "Kreiger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41294589",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "cb6ea2b0-6dfe-4191-a1b2-2278c3c4fb46",
+        "product_name": "Organic Apple",
+        "product_price": 93957,
+        "product_description": "Fresh and juicy organic apple from local orchards",
+        "product_stock": 82407,
+        "created_at": "2023-09-15T02:25:56.931Z",
+        "updated_at": "2023-09-14T16:59:05.124Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "0957909c-4a80-4df5-8dab-b5edb1e7ab3c",
+        "product_name": "Handcrafted Leather Bag",
+        "product_price": 45099,
+        "product_description": "Handmade leather bag with intricate detailing",
+        "product_stock": 15244,
+        "created_at": "2023-09-14T13:50:18.982Z",
+        "updated_at": "2023-09-14T23:57:41.425Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c7e19ee9-1efe-47d3-b3cd-76a5a009e10c",
+        "product_name": "Gourmet Chocolate Truffles",
+        "product_price": 10027,
+        "product_description": "Indulge in the rich and decadent chocolate truffles",
+        "product_stock": 24889,
+        "created_at": "2023-09-15T05:29:32.068Z",
+        "updated_at": "2023-09-14T17:12:25.758Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "797f21a0-5e6d-437e-b495-46da9c741b2a",
+        "product_name": "Bluetooth Wireless Earbuds",
+        "product_price": 31668,
+        "product_description": "Immerse yourself in high-quality audio with these wireless earbuds",
+        "product_stock": 77997,
+        "created_at": "2023-09-14T21:01:33.853Z",
+        "updated_at": "2023-09-14T10:48:24.302Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e583cfd5-7eb2-45b2-af88-0a08ca19b797",
+        "product_name": "Natural Soy Candle",
+        "product_price": 48296,
+        "product_description": "Create a cozy ambiance with the soothing fragrance of this soy candle",
+        "product_stock": 52732,
+        "created_at": "2023-09-14T20:11:37.435Z",
+        "updated_at": "2023-09-14T23:48:13.863Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "2db30c8b-f1ed-40aa-a90d-7e510daeb055",
+        "order_amount": 71318,
+        "order_date": "2023-09-14T10:32:21.822Z",
+        "order_status": "Pending",
+        "order_number": "ORD12345",
+        "created_at": "2023-09-15T03:51:08.168Z",
+        "updated_at": "2023-09-14T15:16:07.154Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "eabce907-9695-4511-a337-c3c38ca4f729",
+        "order_amount": 42449,
+        "order_date": "2023-09-15T04:39:43.473Z",
+        "order_status": "Processing",
+        "order_number": "ORD67890",
+        "created_at": "2023-09-14T15:41:59.684Z",
+        "updated_at": "2023-09-15T06:27:00.399Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "aeeb820e-22a3-48c0-a894-38e5aaa5c07b",
+        "order_amount": 52078,
+        "order_date": "2023-09-14T16:12:01.999Z",
+        "order_status": "Shipped",
+        "order_number": "ORD24680",
+        "created_at": "2023-09-14T13:10:04.288Z",
+        "updated_at": "2023-09-14T21:34:54.213Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f04f5ec0-f588-4e85-955c-baaec6d24624",
+        "order_amount": 30378,
+        "order_date": "2023-09-14T15:27:14.143Z",
+        "order_status": "Delivered",
+        "order_number": "ORD13579",
+        "created_at": "2023-09-14T12:46:29.497Z",
+        "updated_at": "2023-09-14T18:08:01.274Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "73b85a2b-69cc-4c99-8f5c-d3fa51195362",
+        "order_amount": 93369,
+        "order_date": "2023-09-14T12:36:19.478Z",
+        "order_status": "Cancelled",
+        "order_number": "ORD97531",
+        "created_at": "2023-09-14T10:34:39.647Z",
+        "updated_at": "2023-09-14T16:39:45.513Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "6f259696-6a36-40e1-9cc9-3ad5145c7209",
+        "current_day_sales": 50313,
+        "week_to_date_sales": 84874,
+        "average_order_amount": 20001,
+        "total_orders": 6710,
+        "created_at": "2023-09-14T08:59:58.182Z",
+        "updated_at": "2023-09-14T13:06:58.112Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e5ea1e1d-c296-45e6-a5ac-836bcbe4c208",
+        "current_day_sales": 16674,
+        "week_to_date_sales": 30724,
+        "average_order_amount": 83814,
+        "total_orders": 82563,
+        "created_at": "2023-09-14T12:36:31.238Z",
+        "updated_at": "2023-09-14T09:44:15.605Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "1638531a-e1e3-4a79-ac00-f45b3ffa83df",
+        "current_day_sales": 52305,
+        "week_to_date_sales": 71542,
+        "average_order_amount": 12417,
+        "total_orders": 29899,
+        "created_at": "2023-09-14T21:58:09.903Z",
+        "updated_at": "2023-09-14T23:33:53.706Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "75b45058-bbda-4615-92b8-34c5d667ce5e",
+        "current_day_sales": 48163,
+        "week_to_date_sales": 96944,
+        "average_order_amount": 52526,
+        "total_orders": 38676,
+        "created_at": "2023-09-14T10:53:04.279Z",
+        "updated_at": "2023-09-15T02:31:10.518Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "7578ac98-7bd5-4273-9048-fb3bb021b46e",
+        "current_day_sales": 29120,
+        "week_to_date_sales": 27277,
+        "average_order_amount": 90229,
+        "total_orders": 93038,
+        "created_at": "2023-09-14T18:51:48.917Z",
+        "updated_at": "2023-09-14T15:49:31.975Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "b050a096-260b-49e9-af3a-10e463f56440",
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "customer_phone": "123-456-7890",
+        "customer_address": "123 Main Street",
+        "created_at": "2023-09-15T04:28:11.897Z",
+        "updated_at": "2023-09-14T12:15:50.422Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "ba377dc2-4c34-455d-8330-e0c996517aad",
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_phone": "987-654-3210",
+        "customer_address": "456 Elm Avenue",
+        "created_at": "2023-09-14T23:00:23.542Z",
+        "updated_at": "2023-09-14T20:15:05.227Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e6f52c79-979d-4bab-88bf-d7ad66fc7403",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "555-123-4567",
+        "customer_address": "789 Oak Lane",
+        "created_at": "2023-09-14T23:24:25.020Z",
+        "updated_at": "2023-09-15T04:31:03.274Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "1948500d-79f5-4e51-8676-383c122c03a5",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "888-999-0000",
+        "customer_address": "321 Pine Road",
+        "created_at": "2023-09-14T22:11:14.071Z",
+        "updated_at": "2023-09-15T08:17:30.260Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c8791951-55a8-4e90-ae61-62c2a84a494c",
+        "customer_name": "Robert Wilson",
+        "customer_email": "robert.wilson@example.com",
+        "customer_phone": "444-555-6666",
+        "customer_address": "987 Maple Court",
+        "created_at": "2023-09-15T02:17:58.561Z",
+        "updated_at": "2023-09-15T05:19:59.375Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "37bb328c-e3be-44a3-be5a-49264781115f",
+        "email": "Mustafa55@gmail.com",
+        "firstName": "Christa",
+        "lastName": "Aufderhar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73775775",
+        "tenantId": null
+      },
+      {
+        "reference": "3efc256f-0a7e-4fe7-ab27-e0c7b326e52a",
+        "email": "Tony.Flatley44@yahoo.com",
+        "firstName": "Caleigh",
+        "lastName": "Ledner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/346.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7f357e13-4ecb-45ca-a908-0c0764046bdc",
+        "email": "Carleton.Walter@hotmail.com",
+        "firstName": "Sydnee",
+        "lastName": "Crist-Vandervort",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/510.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f6cf4b66-8200-4ca7-85cc-6cbb95275319",
+        "email": "Adrain_Weber4@hotmail.com",
+        "firstName": "Marquis",
+        "lastName": "Parker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17630264",
+        "tenantId": null
+      },
+      {
+        "reference": "a3f68e8d-ef74-4e5f-b935-b75a51486731",
+        "email": "Lavern75@yahoo.com",
+        "firstName": "Steve",
+        "lastName": "Kassulke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/764.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "d57ee09e-ad61-419b-ab77-c350b5508502",
+        "product_name": "T-shirt",
+        "product_price": 82864,
+        "product_description": "Comfortable and stylish",
+        "product_stock": 20117,
+        "created_at": "2023-09-14T20:28:13.303Z",
+        "updated_at": "2023-09-15T01:52:13.627Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "4a1e7d89-7e79-46e9-925f-5bd016a69bf1",
+        "product_name": "Smartphone",
+        "product_price": 33421,
+        "product_description": "Latest features and high performance",
+        "product_stock": 99906,
+        "created_at": "2023-09-15T06:01:53.351Z",
+        "updated_at": "2023-09-15T07:11:29.658Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "d03c51ee-3a22-4fef-8e9c-e38e99e7cfa0",
+        "product_name": "Running shoes",
+        "product_price": 58818,
+        "product_description": "Designed for runners",
+        "product_stock": 32810,
+        "created_at": "2023-09-14T18:14:17.610Z",
+        "updated_at": "2023-09-14T21:48:26.081Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "76357afb-df54-4167-a9f1-e090fb7cddfa",
+        "product_name": "Oil painting",
+        "product_price": 85961,
+        "product_description": "Beautiful artwork for your home",
+        "product_stock": 24901,
+        "created_at": "2023-09-14T17:14:37.384Z",
+        "updated_at": "2023-09-14T16:09:58.306Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "01848c3a-4de1-4f22-8122-dec3a60627a0",
+        "product_name": "Coffee table",
+        "product_price": 35168,
+        "product_description": "Elegant and functional",
+        "product_stock": 33126,
+        "created_at": "2023-09-15T02:18:39.850Z",
+        "updated_at": "2023-09-14T16:00:40.085Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "2e273a8b-4335-4413-8f0c-09fc2c0e0f8e",
+        "order_amount": 36908,
+        "order_date": "2023-09-15T00:04:23.935Z",
+        "order_status": "Pending",
+        "order_number": "ORD12345",
+        "created_at": "2023-09-14T22:23:12.403Z",
+        "updated_at": "2023-09-14T17:20:33.452Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "46833674-d990-45c0-8508-6c9dd453ca3c",
+        "order_amount": 47772,
+        "order_date": "2023-09-14T13:06:24.559Z",
+        "order_status": "Processing",
+        "order_number": "ORD67890",
+        "created_at": "2023-09-14T17:47:36.437Z",
+        "updated_at": "2023-09-14T16:45:03.131Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "65083728-033d-4750-ae04-c36205c464f7",
+        "order_amount": 57466,
+        "order_date": "2023-09-14T12:02:35.006Z",
+        "order_status": "Shipped",
+        "order_number": "ORD24680",
+        "created_at": "2023-09-14T16:12:38.947Z",
+        "updated_at": "2023-09-14T20:32:03.609Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "3f530dd5-050e-44eb-a2ca-1fd9a5c48365",
+        "order_amount": 94758,
+        "order_date": "2023-09-14T09:01:53.526Z",
+        "order_status": "Delivered",
+        "order_number": "ORD13579",
+        "created_at": "2023-09-14T10:12:19.915Z",
+        "updated_at": "2023-09-14T13:21:42.635Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "16a49829-b8a2-4307-b126-f2bb941c3edd",
+        "order_amount": 24545,
+        "order_date": "2023-09-15T02:47:41.263Z",
+        "order_status": "Cancelled",
+        "order_number": "ORD86420",
+        "created_at": "2023-09-15T07:44:17.738Z",
+        "updated_at": "2023-09-14T19:30:20.193Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "0f84c88d-dbf5-4e99-8adf-cad11954221b",
+        "current_day_sales": 9220,
+        "week_to_date_sales": 63015,
+        "average_order_amount": 86992,
+        "total_orders": 42473,
+        "created_at": "2023-09-14T20:22:23.176Z",
+        "updated_at": "2023-09-15T02:03:21.326Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "5ad3f430-1994-4d6d-b6be-0192b4a02416",
+        "current_day_sales": 63176,
+        "week_to_date_sales": 65566,
+        "average_order_amount": 84302,
+        "total_orders": 24032,
+        "created_at": "2023-09-15T07:13:01.024Z",
+        "updated_at": "2023-09-14T14:10:52.572Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "863e6499-4227-4a32-9c35-9498f1a91b2d",
+        "current_day_sales": 9557,
+        "week_to_date_sales": 72672,
+        "average_order_amount": 61531,
+        "total_orders": 59197,
+        "created_at": "2023-09-14T23:52:14.575Z",
+        "updated_at": "2023-09-14T19:08:53.066Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f57209f2-15a7-4c98-91e0-bc263fb6a218",
+        "current_day_sales": 89936,
+        "week_to_date_sales": 92473,
+        "average_order_amount": 74116,
+        "total_orders": 57076,
+        "created_at": "2023-09-14T18:40:12.706Z",
+        "updated_at": "2023-09-14T18:21:55.515Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "6ec889c0-66e1-4c18-b997-b4a07119a134",
+        "current_day_sales": 76818,
+        "week_to_date_sales": 10967,
+        "average_order_amount": 15392,
+        "total_orders": 99046,
+        "created_at": "2023-09-14T11:30:34.268Z",
+        "updated_at": "2023-09-15T01:12:58.186Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "537ee96e-64da-4054-a032-141d0814b35f",
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "customer_phone": "1234567890",
+        "customer_address": "123 Main St",
+        "created_at": "2023-09-14T16:02:28.472Z",
+        "updated_at": "2023-09-14T12:47:53.116Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e1703180-4b7e-442c-a7cc-35963d9378bf",
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_phone": "9876543210",
+        "customer_address": "456 Elm St",
+        "created_at": "2023-09-14T20:20:28.396Z",
+        "updated_at": "2023-09-14T21:46:00.141Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "10c2d886-ffd3-4697-8835-e3b37a44b13b",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "5678901234",
+        "customer_address": "789 Oak Ave",
+        "created_at": "2023-09-14T14:49:36.456Z",
+        "updated_at": "2023-09-14T13:05:20.305Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "d57dd3eb-b7f5-4db1-b4f2-dc3a3f3c0a71",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "4321098765",
+        "customer_address": "321 Pine Rd",
+        "created_at": "2023-09-14T09:02:22.489Z",
+        "updated_at": "2023-09-14T18:22:51.913Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8c1ea1a4-2827-4737-a5ad-7414cc380581",
+        "customer_name": "David Wilson",
+        "customer_email": "david.wilson@example.com",
+        "customer_phone": "2468013579",
+        "customer_address": "654 Maple Ln",
+        "created_at": "2023-09-14T20:00:13.831Z",
+        "updated_at": "2023-09-15T02:30:22.043Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d48e0c35-cf8a-45d6-ac87-f6480d5613e3",
+        "email": "Katlynn_Hane2@gmail.com",
+        "firstName": "Liliana",
+        "lastName": "Pollich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22987166",
+        "tenantId": null
+      },
+      {
+        "reference": "8a95a394-6390-462c-8a16-3529500e2033",
+        "email": "Darwin.White@gmail.com",
+        "firstName": "Rod",
+        "lastName": "Mueller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46202441",
+        "tenantId": null
+      },
+      {
+        "reference": "6d5bb715-b349-4666-9310-7b82fb7fd03b",
+        "email": "Buster.Moen@gmail.com",
+        "firstName": "Brant",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66369315",
+        "tenantId": null
+      },
+      {
+        "reference": "72456f61-5d1e-44c4-acde-09b44083b1e8",
+        "email": "Rahsaan66@hotmail.com",
+        "firstName": "Jayden",
+        "lastName": "Kling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92922456",
+        "tenantId": null
+      },
+      {
+        "reference": "59893470-2d63-4501-b207-8c3e71204ee1",
+        "email": "Prudence_Johns18@gmail.com",
+        "firstName": "Diego",
+        "lastName": "Tremblay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1243.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "28738898-075b-4d08-bbf5-06a25e3c2aab",
+        "product_name": "Widget X",
+        "product_price": 4227,
+        "product_description": "A versatile and durable widget",
+        "product_stock": 13587,
+        "created_at": "2023-09-14T18:58:09.341Z",
+        "updated_at": "2023-09-14T09:03:43.005Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "5dbc58bb-de85-4607-9caa-b3908f9d3a3d",
+        "product_name": "Gadget Y",
+        "product_price": 39115,
+        "product_description": "The latest gadget with advanced features",
+        "product_stock": 7641,
+        "created_at": "2023-09-14T22:05:53.126Z",
+        "updated_at": "2023-09-14T22:00:54.980Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8579a6f0-b76c-4ffe-be69-16655f38cb6d",
+        "product_name": "Tool Z",
+        "product_price": 12990,
+        "product_description": "A high-quality tool for professionals",
+        "product_stock": 71473,
+        "created_at": "2023-09-14T22:35:36.862Z",
+        "updated_at": "2023-09-14T22:19:05.621Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "55604040-d6d0-44cc-8043-1ef948b3c965",
+        "product_name": "Accessory A",
+        "product_price": 72102,
+        "product_description": "An essential accessory for everyday use",
+        "product_stock": 33699,
+        "created_at": "2023-09-14T17:52:52.967Z",
+        "updated_at": "2023-09-15T07:07:21.681Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f242bb03-8619-4944-91ba-87521e864f83",
+        "product_name": "Device B",
+        "product_price": 8589,
+        "product_description": "A cutting-edge device with innovative technology",
+        "product_stock": 6790,
+        "created_at": "2023-09-14T12:19:51.665Z",
+        "updated_at": "2023-09-14T23:24:47.765Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "6a2faa68-22ee-4154-bdc1-16f67ee9687f",
+        "order_amount": 87130,
+        "order_date": "2023-09-14T13:31:05.336Z",
+        "order_status": "Pending",
+        "order_number": "12345",
+        "created_at": "2023-09-15T04:25:53.430Z",
+        "updated_at": "2023-09-14T22:12:18.498Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "76e39074-eae3-4e7d-8154-b55309215cce",
+        "order_amount": 54299,
+        "order_date": "2023-09-14T15:48:35.413Z",
+        "order_status": "Processing",
+        "order_number": "67890",
+        "created_at": "2023-09-15T00:11:28.785Z",
+        "updated_at": "2023-09-14T08:47:16.310Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e3f5e072-7c78-43d4-83eb-86e52a4f9a78",
+        "order_amount": 63539,
+        "order_date": "2023-09-15T03:20:27.788Z",
+        "order_status": "Shipped",
+        "order_number": "54321",
+        "created_at": "2023-09-14T12:41:09.417Z",
+        "updated_at": "2023-09-15T06:54:00.403Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8d3ff247-7524-4300-a6e3-817f7f50db17",
+        "order_amount": 98308,
+        "order_date": "2023-09-14T09:45:16.647Z",
+        "order_status": "Delivered",
+        "order_number": "09876",
+        "created_at": "2023-09-14T09:47:44.592Z",
+        "updated_at": "2023-09-15T07:15:17.607Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "bc7270b8-0feb-4237-b946-d005e1b8f66f",
+        "order_amount": 54795,
+        "order_date": "2023-09-15T03:00:48.705Z",
+        "order_status": "Cancelled",
+        "order_number": "13579",
+        "created_at": "2023-09-14T20:39:14.456Z",
+        "updated_at": "2023-09-14T17:45:55.279Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "9015155a-d66f-4f91-87c4-db6f155bbc1b",
+        "current_day_sales": 72254,
+        "week_to_date_sales": 77893,
+        "average_order_amount": 85693,
+        "total_orders": 697,
+        "created_at": "2023-09-14T22:45:55.707Z",
+        "updated_at": "2023-09-14T22:15:41.742Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e561e6e0-6d1a-44ad-a00d-53e82d7f7d6d",
+        "current_day_sales": 3891,
+        "week_to_date_sales": 15899,
+        "average_order_amount": 95652,
+        "total_orders": 14121,
+        "created_at": "2023-09-14T11:52:46.230Z",
+        "updated_at": "2023-09-15T07:09:12.314Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8cde6b3d-165f-4b4c-b93b-0f3785820da9",
+        "current_day_sales": 66018,
+        "week_to_date_sales": 82048,
+        "average_order_amount": 82425,
+        "total_orders": 33389,
+        "created_at": "2023-09-14T12:56:50.495Z",
+        "updated_at": "2023-09-15T05:26:58.128Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "dcd5759a-2d54-42e7-87b5-a439d30a33e5",
+        "current_day_sales": 58006,
+        "week_to_date_sales": 35178,
+        "average_order_amount": 80500,
+        "total_orders": 59897,
+        "created_at": "2023-09-14T14:13:43.262Z",
+        "updated_at": "2023-09-15T07:27:08.246Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "aa79f4ca-9bfc-404a-a9e0-5c3ec90310e0",
+        "current_day_sales": 47105,
+        "week_to_date_sales": 89604,
+        "average_order_amount": 92974,
+        "total_orders": 5780,
+        "created_at": "2023-09-15T06:05:01.401Z",
+        "updated_at": "2023-09-14T19:49:58.945Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "6a267eda-7681-4da1-aed9-a1795e5521f9",
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "customer_phone": "123-456-7890",
+        "customer_address": "123 Main St",
+        "created_at": "2023-09-14T09:51:19.731Z",
+        "updated_at": "2023-09-15T02:01:34.443Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "846584e4-61ac-4a69-aab2-6cd2adc8f254",
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_phone": "555-555-5555",
+        "customer_address": "456 Elm St",
+        "created_at": "2023-09-14T13:05:29.444Z",
+        "updated_at": "2023-09-14T13:43:31.111Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f90d4995-69c0-48ca-a4bb-cb872a195e12",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "987-654-3210",
+        "customer_address": "789 Oak Ave",
+        "created_at": "2023-09-14T21:06:39.857Z",
+        "updated_at": "2023-09-14T11:49:54.381Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "6a5d211c-87c0-46ec-b5dc-88f1119406d2",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "999-999-9999",
+        "customer_address": "321 Pine Rd",
+        "created_at": "2023-09-14T09:14:08.095Z",
+        "updated_at": "2023-09-14T15:50:09.984Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "af3785f7-4696-4396-87c6-6b1df0a78e78",
+        "customer_name": "David Wilson",
+        "customer_email": "david.wilson@example.com",
+        "customer_phone": "123-123-1234",
+        "customer_address": "555 Maple Ln",
+        "created_at": "2023-09-15T07:10:54.640Z",
+        "updated_at": "2023-09-14T09:45:03.193Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ff53f168-b8ab-48e1-866e-0f3c3577f4f1",
+        "email": "Leola_OConnell@gmail.com",
+        "firstName": "Verlie",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/89.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "43e0ed15-7545-47f0-aeac-82e242f1cadd",
+        "email": "Forrest_Volkman@hotmail.com",
+        "firstName": "Aidan",
+        "lastName": "Haley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62084570",
+        "tenantId": null
+      },
+      {
+        "reference": "1a4179bf-986f-4afe-8cf2-6bd8535b3547",
+        "email": "Peyton_McKenzie72@gmail.com",
+        "firstName": "Jo",
+        "lastName": "Deckow",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/336.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7c1cfcb7-aacd-47f9-b873-9380bdc83929",
+        "email": "Constance9@yahoo.com",
+        "firstName": "Anika",
+        "lastName": "Bradtke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/245.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ce23ccc5-e24f-450b-9ca6-cbc744a964ef",
+        "email": "Bailee8@hotmail.com",
+        "firstName": "Benjamin",
+        "lastName": "Ankunding-Lowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/909.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "88d0985d-89e0-461f-878b-f9d0fdcd9d59",
+        "product_name": "Stylish T-Shirt",
+        "product_price": 78896,
+        "product_description": "A fashionable t-shirt made with high-quality materials",
+        "product_stock": 19967,
+        "created_at": "2023-09-14T17:32:07.960Z",
+        "updated_at": "2023-09-15T03:36:54.493Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "d5243650-6141-4e90-8a64-fdeda2a116a4",
+        "product_name": "Premium Espresso Machine",
+        "product_price": 89004,
+        "product_description": "An espresso machine that brews the perfect cup every time",
+        "product_stock": 25662,
+        "created_at": "2023-09-14T10:41:25.173Z",
+        "updated_at": "2023-09-14T11:18:04.316Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "19d736ce-c9c4-4b22-91ad-c298ceb41af5",
+        "product_name": "Smartphone Charger",
+        "product_price": 43114,
+        "product_description": "A portable charger for your smartphone on the go",
+        "product_stock": 3047,
+        "created_at": "2023-09-15T02:51:06.494Z",
+        "updated_at": "2023-09-14T20:26:21.789Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "efc6fb14-72cb-44a7-bbff-e6c8a41c2f98",
+        "product_name": "Gourmet Pizza",
+        "product_price": 56898,
+        "product_description": "Delicious pizza with fresh ingredients and a thin crust",
+        "product_stock": 58009,
+        "created_at": "2023-09-14T20:08:41.183Z",
+        "updated_at": "2023-09-15T05:09:39.179Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "34cdb879-ab85-4273-ad14-74e6612913f3",
+        "product_name": "Luxury Suite",
+        "product_price": 81782,
+        "product_description": "A luxurious suite with stunning views and top-notch amenities",
+        "product_stock": 49553,
+        "created_at": "2023-09-15T06:38:52.791Z",
+        "updated_at": "2023-09-14T12:43:20.503Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "f9300a13-197e-4e5e-b65c-cf885692362b",
+        "order_amount": 95024,
+        "order_date": "2023-09-14T12:28:51.890Z",
+        "order_status": "Pending",
+        "order_number": "123456789",
+        "created_at": "2023-09-14T15:29:18.548Z",
+        "updated_at": "2023-09-14T09:53:58.437Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "81a6781d-d493-489f-a53e-d51f80b8bf3d",
+        "order_amount": 73659,
+        "order_date": "2023-09-14T15:11:59.761Z",
+        "order_status": "Processing",
+        "order_number": "987654321",
+        "created_at": "2023-09-14T12:16:03.584Z",
+        "updated_at": "2023-09-14T16:21:23.883Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "656ff45c-95e5-4ec7-a952-fcbb12c521a6",
+        "order_amount": 11619,
+        "order_date": "2023-09-14T09:17:44.792Z",
+        "order_status": "Shipped",
+        "order_number": "456789123",
+        "created_at": "2023-09-15T07:21:47.528Z",
+        "updated_at": "2023-09-15T05:41:02.430Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "53dbcfd2-f4ac-412c-8c8c-cde9e0203e95",
+        "order_amount": 64952,
+        "order_date": "2023-09-15T04:36:07.063Z",
+        "order_status": "Delivered",
+        "order_number": "321654987",
+        "created_at": "2023-09-14T14:54:11.724Z",
+        "updated_at": "2023-09-14T09:57:54.998Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e6b80934-82e6-4d52-a5ab-35cb13b9a17f",
+        "order_amount": 72854,
+        "order_date": "2023-09-14T22:46:56.408Z",
+        "order_status": "Cancelled",
+        "order_number": "789123456",
+        "created_at": "2023-09-14T22:30:38.204Z",
+        "updated_at": "2023-09-15T04:25:12.890Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "085b3252-220e-414e-ba00-ff2341486f68",
+        "current_day_sales": 83653,
+        "week_to_date_sales": 41838,
+        "average_order_amount": 48480,
+        "total_orders": 42017,
+        "created_at": "2023-09-15T07:21:08.242Z",
+        "updated_at": "2023-09-14T18:38:44.568Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "314e6449-cb0d-4f3b-b8da-1d242fa0f26f",
+        "current_day_sales": 50418,
+        "week_to_date_sales": 11258,
+        "average_order_amount": 80119,
+        "total_orders": 5203,
+        "created_at": "2023-09-14T22:41:08.823Z",
+        "updated_at": "2023-09-14T22:51:11.979Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "ea7ac80f-3a50-46f8-8636-5227eebd48cc",
+        "current_day_sales": 50077,
+        "week_to_date_sales": 13273,
+        "average_order_amount": 86373,
+        "total_orders": 36179,
+        "created_at": "2023-09-14T09:35:02.721Z",
+        "updated_at": "2023-09-14T09:22:05.818Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "187fd6c6-5ffd-4501-be06-93e2ec96d5dd",
+        "current_day_sales": 44082,
+        "week_to_date_sales": 40516,
+        "average_order_amount": 94209,
+        "total_orders": 33771,
+        "created_at": "2023-09-15T07:37:44.935Z",
+        "updated_at": "2023-09-14T21:11:26.530Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "4ad08aa9-3d6e-4d80-a6c2-11352c385fcd",
+        "current_day_sales": 89742,
+        "week_to_date_sales": 54783,
+        "average_order_amount": 82259,
+        "total_orders": 74298,
+        "created_at": "2023-09-14T14:39:58.566Z",
+        "updated_at": "2023-09-14T17:35:09.113Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "8c3021c5-8c49-407a-a0dd-b21746559bf9",
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "customer_phone": "1234567890",
+        "customer_address": "123 Main Street",
+        "created_at": "2023-09-14T20:23:09.537Z",
+        "updated_at": "2023-09-14T19:56:37.028Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "66380e9f-7ddf-4ac1-b376-64ab2cbe482b",
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_phone": "9876543210",
+        "customer_address": "456 Elm Avenue",
+        "created_at": "2023-09-14T17:35:12.926Z",
+        "updated_at": "2023-09-14T18:46:20.746Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "eb796134-1899-483e-91b3-c61d587fedd6",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "4567891230",
+        "customer_address": "789 Oak Drive",
+        "created_at": "2023-09-14T20:41:00.510Z",
+        "updated_at": "2023-09-15T02:20:08.696Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "ebaf7009-d50d-473a-b876-3407e515a626",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "3216549870",
+        "customer_address": "321 Pine Lane",
+        "created_at": "2023-09-15T03:53:52.074Z",
+        "updated_at": "2023-09-14T15:06:41.621Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "b771296f-b1ba-45c9-924d-02cdb03b4dbe",
+        "customer_name": "David Wilson",
+        "customer_email": "david.wilson@example.com",
+        "customer_phone": "7891234560",
+        "customer_address": "987 Maple Road",
+        "created_at": "2023-09-14T09:26:06.490Z",
+        "updated_at": "2023-09-14T21:07:34.683Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "83cab4e3-aff0-4e99-9532-3d36185d83d9",
+        "email": "Jerry_Hodkiewicz58@hotmail.com",
+        "firstName": "Lonny",
+        "lastName": "Runolfsson-Jaskolski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/5.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f24932ea-ab38-4f97-b8d5-78dc7c3994d7",
+        "email": "Elijah63@gmail.com",
+        "firstName": "Marisa",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/517.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "55868e50-0e25-4a89-96eb-9d5e4a12b22a",
+        "email": "Aurore90@gmail.com",
+        "firstName": "Colby",
+        "lastName": "Cole",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/394.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "36a6d092-38b6-445e-93b2-e54269d97c77",
+        "email": "Quinten.Kulas@gmail.com",
+        "firstName": "Blake",
+        "lastName": "Walter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29834316",
+        "tenantId": null
+      },
+      {
+        "reference": "52cdafb9-b98d-44d1-a5b2-af7a6d3db0d4",
+        "email": "Rodrigo9@hotmail.com",
+        "firstName": "Winnifred",
+        "lastName": "Kshlerin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67350464",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "94a4cee6-c1a7-44cf-a983-c0fc5813d6ac",
+        "product_name": "Smartphone",
+        "product_price": 35218,
+        "product_description": "The latest smartphone with advanced features",
+        "product_stock": 66104,
+        "created_at": "2023-09-14T16:27:11.838Z",
+        "updated_at": "2023-09-14T16:03:36.217Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f8c6e2ff-cd79-4e1e-ae96-1fd45f18102a",
+        "product_name": "Designer Dress",
+        "product_price": 85188,
+        "product_description": "A stunning dress for special occasions",
+        "product_stock": 40300,
+        "created_at": "2023-09-14T19:41:17.373Z",
+        "updated_at": "2023-09-15T02:43:16.585Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "fefece39-4f12-44b9-995e-58a34f523c86",
+        "product_name": "Gourmet Coffee",
+        "product_price": 70330,
+        "product_description": "Premium coffee beans for a rich taste",
+        "product_stock": 9833,
+        "created_at": "2023-09-14T21:42:49.940Z",
+        "updated_at": "2023-09-14T17:35:25.586Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "6862ac13-f9b6-41a7-bc2c-d5d20dbb8c8e",
+        "product_name": "Investment Plan",
+        "product_price": 46065,
+        "product_description": "A secure investment plan for your future",
+        "product_stock": 58838,
+        "created_at": "2023-09-14T15:34:23.109Z",
+        "updated_at": "2023-09-14T14:48:34.915Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "da9547f7-3505-48b5-ad8d-2f21613e0898",
+        "product_name": "Solar Panel",
+        "product_price": 14505,
+        "product_description": "Efficient solar panels for renewable energy",
+        "product_stock": 38455,
+        "created_at": "2023-09-14T16:40:39.238Z",
+        "updated_at": "2023-09-14T08:58:14.347Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "1461ac96-b152-43d0-acc2-26e3e9088a80",
+        "order_amount": 9646,
+        "order_date": "2023-09-15T05:15:21.707Z",
+        "order_status": "Pending",
+        "order_number": "ORD12345",
+        "created_at": "2023-09-14T22:14:11.308Z",
+        "updated_at": "2023-09-14T17:27:34.405Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "d7624094-4a75-469b-b1e1-ecab0ea4d2cb",
+        "order_amount": 52033,
+        "order_date": "2023-09-14T12:14:33.554Z",
+        "order_status": "Processing",
+        "order_number": "ORD67890",
+        "created_at": "2023-09-14T11:16:34.152Z",
+        "updated_at": "2023-09-15T07:10:57.939Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "777160b8-3af6-496a-b5ad-a4d8c867093e",
+        "order_amount": 12870,
+        "order_date": "2023-09-15T06:03:09.844Z",
+        "order_status": "Shipped",
+        "order_number": "ORD24680",
+        "created_at": "2023-09-15T03:20:09.443Z",
+        "updated_at": "2023-09-14T17:28:56.397Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "bd5f4b4f-3f76-43e1-a970-c644b5db19c2",
+        "order_amount": 32943,
+        "order_date": "2023-09-15T05:10:19.210Z",
+        "order_status": "Delivered",
+        "order_number": "ORD13579",
+        "created_at": "2023-09-15T07:58:01.698Z",
+        "updated_at": "2023-09-15T08:21:58.387Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "3df4c5bd-1c86-40da-93af-3e074fab829d",
+        "order_amount": 75314,
+        "order_date": "2023-09-15T03:05:27.185Z",
+        "order_status": "Cancelled",
+        "order_number": "ORD97531",
+        "created_at": "2023-09-14T11:55:34.467Z",
+        "updated_at": "2023-09-14T21:42:22.395Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "b049cccb-424d-4ee0-9d5b-e9b3d67e750e",
+        "current_day_sales": 62206,
+        "week_to_date_sales": 28153,
+        "average_order_amount": 82423,
+        "total_orders": 71754,
+        "created_at": "2023-09-15T07:07:16.669Z",
+        "updated_at": "2023-09-15T08:22:47.888Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "aef0f7dc-3785-4ee1-b443-51fe4edcc174",
+        "current_day_sales": 75850,
+        "week_to_date_sales": 6778,
+        "average_order_amount": 95200,
+        "total_orders": 64731,
+        "created_at": "2023-09-14T23:56:29.711Z",
+        "updated_at": "2023-09-15T03:55:33.794Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "7f30dd7f-460b-4500-8d04-d353222182e6",
+        "current_day_sales": 45836,
+        "week_to_date_sales": 43734,
+        "average_order_amount": 56235,
+        "total_orders": 86530,
+        "created_at": "2023-09-15T05:06:21.243Z",
+        "updated_at": "2023-09-14T17:30:57.759Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "bb48ddf8-cb6f-472c-8124-81842e86c26b",
+        "current_day_sales": 24591,
+        "week_to_date_sales": 56288,
+        "average_order_amount": 44065,
+        "total_orders": 82154,
+        "created_at": "2023-09-15T02:29:22.753Z",
+        "updated_at": "2023-09-14T12:25:18.289Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "53027bd8-6cb1-4bc6-8856-a2b1b07a516f",
+        "current_day_sales": 60582,
+        "week_to_date_sales": 60986,
+        "average_order_amount": 5652,
+        "total_orders": 96975,
+        "created_at": "2023-09-14T23:00:35.940Z",
+        "updated_at": "2023-09-14T12:54:57.729Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "102becb7-458f-4cd3-bade-d027cb290854",
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "customer_phone": "1234567890",
+        "customer_address": "123 Main St",
+        "created_at": "2023-09-14T23:01:18.591Z",
+        "updated_at": "2023-09-15T01:31:40.797Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "eff8cdc6-50ff-43f3-8bf7-c33f4949b01c",
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_phone": "9876543210",
+        "customer_address": "456 Elm St",
+        "created_at": "2023-09-14T12:10:01.654Z",
+        "updated_at": "2023-09-14T14:02:51.576Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "282bd9d9-f86e-4dfd-b111-7995af8a6c0a",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "5555555555",
+        "customer_address": "789 Oak Ave",
+        "created_at": "2023-09-15T06:25:35.307Z",
+        "updated_at": "2023-09-14T22:14:40.541Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "9b62c586-9c79-46a2-a7a8-3ca98257e04c",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "9999999999",
+        "customer_address": "321 Pine Rd",
+        "created_at": "2023-09-15T03:40:32.325Z",
+        "updated_at": "2023-09-15T01:34:57.057Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "1617de3d-6713-4ad9-bcf7-cedf6cc0650a",
+        "customer_name": "David Wilson",
+        "customer_email": "david.wilson@example.com",
+        "customer_phone": "1111111111",
+        "customer_address": "987 Maple Ln",
+        "created_at": "2023-09-14T12:03:02.029Z",
+        "updated_at": "2023-09-14T18:44:40.250Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f8bd5468-ba17-46cc-837b-bd2ee3c3901b",
+        "email": "Mariano.Kautzer46@yahoo.com",
+        "firstName": "Lexie",
+        "lastName": "Bergnaum",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84459926",
+        "tenantId": null
+      },
+      {
+        "reference": "c960308a-3bc5-4213-ba3c-09aaf7847a1d",
+        "email": "Chris76@gmail.com",
+        "firstName": "Nakia",
+        "lastName": "Greenholt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/236.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a6394f7b-6218-4270-b2f7-de7d30e6c6b4",
+        "email": "Verda.Turcotte60@hotmail.com",
+        "firstName": "Jedidiah",
+        "lastName": "Jenkins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70666259",
+        "tenantId": null
+      },
+      {
+        "reference": "6b25179e-2a03-4993-ab35-7b51adff297c",
+        "email": "Carroll.Wilkinson92@gmail.com",
+        "firstName": "Chauncey",
+        "lastName": "Hauck",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/393.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d7fe431e-dae1-4120-ba6d-f3c869697219",
+        "email": "Ned54@hotmail.com",
+        "firstName": "Tatyana",
+        "lastName": "Dach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/60.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "a4f73dac-fac4-405d-853c-0fa4426974ea",
+        "product_name": "T-shirt",
+        "product_price": 54624,
+        "product_description": "Comfortable and stylish",
+        "product_stock": 87310,
+        "created_at": "2023-09-14T11:37:45.773Z",
+        "updated_at": "2023-09-15T05:46:28.424Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "24984325-d115-4ba3-b361-91f9b1167ece",
+        "product_name": "Pizza",
+        "product_price": 22423,
+        "product_description": "Delicious and flavorful",
+        "product_stock": 20189,
+        "created_at": "2023-09-14T16:25:00.746Z",
+        "updated_at": "2023-09-15T03:27:51.571Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "28643a98-fe94-4e7b-ba79-0bafc240e995",
+        "product_name": "Smartphone",
+        "product_price": 94409,
+        "product_description": "Cutting-edge technology",
+        "product_stock": 80728,
+        "created_at": "2023-09-14T11:16:56.465Z",
+        "updated_at": "2023-09-14T12:48:15.593Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "b8545dfe-4646-49fa-a31f-db8ebb31bb2c",
+        "product_name": "Yoga mat",
+        "product_price": 51284,
+        "product_description": "Durable and non-slip",
+        "product_stock": 99932,
+        "created_at": "2023-09-14T16:19:41.634Z",
+        "updated_at": "2023-09-14T14:44:42.241Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "ecc4d56b-29ed-4527-84be-659820a67c75",
+        "product_name": "Novel",
+        "product_price": 89246,
+        "product_description": "Engaging and captivating",
+        "product_stock": 21580,
+        "created_at": "2023-09-14T17:24:11.050Z",
+        "updated_at": "2023-09-14T18:40:31.219Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "ba013b0b-20be-4e6c-9596-e52aa794c97a",
+        "order_amount": 58995,
+        "order_date": "2023-09-14T11:06:58.950Z",
+        "order_status": "Pending",
+        "order_number": "12345",
+        "created_at": "2023-09-14T10:46:18.820Z",
+        "updated_at": "2023-09-14T22:38:17.029Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c79bc7ae-f4bf-41fb-bac6-380af19a2e4b",
+        "order_amount": 20787,
+        "order_date": "2023-09-15T00:41:26.090Z",
+        "order_status": "Processing",
+        "order_number": "67890",
+        "created_at": "2023-09-14T21:34:59.536Z",
+        "updated_at": "2023-09-14T23:11:46.546Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "5d69019c-203e-42a7-a70c-2e192a5cc176",
+        "order_amount": 79203,
+        "order_date": "2023-09-14T22:01:34.088Z",
+        "order_status": "Shipped",
+        "order_number": "54321",
+        "created_at": "2023-09-15T00:03:19.284Z",
+        "updated_at": "2023-09-14T09:23:12.850Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "55781014-e8d9-4e5c-9e11-72fb0ce763f0",
+        "order_amount": 13197,
+        "order_date": "2023-09-15T06:01:12.601Z",
+        "order_status": "Delivered",
+        "order_number": "09876",
+        "created_at": "2023-09-14T09:34:01.675Z",
+        "updated_at": "2023-09-15T04:28:56.457Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "97a1312e-6cae-433f-838c-bab80409ebd8",
+        "order_amount": 8587,
+        "order_date": "2023-09-15T08:08:58.003Z",
+        "order_status": "Cancelled",
+        "order_number": "13579",
+        "created_at": "2023-09-14T15:18:29.957Z",
+        "updated_at": "2023-09-15T00:39:21.781Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "79dae505-fc62-4d68-8ba5-39b8f68023f2",
+        "current_day_sales": 5277,
+        "week_to_date_sales": 79901,
+        "average_order_amount": 40954,
+        "total_orders": 54756,
+        "created_at": "2023-09-14T23:22:48.238Z",
+        "updated_at": "2023-09-15T04:20:47.641Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "5ac3200e-b264-4e51-bf7a-6a863ff5d3a8",
+        "current_day_sales": 52396,
+        "week_to_date_sales": 73795,
+        "average_order_amount": 71006,
+        "total_orders": 26480,
+        "created_at": "2023-09-14T20:49:52.186Z",
+        "updated_at": "2023-09-14T21:30:30.698Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "fa02ceea-6f05-49ab-89ad-dd1014de0b3a",
+        "current_day_sales": 81176,
+        "week_to_date_sales": 20487,
+        "average_order_amount": 85553,
+        "total_orders": 42757,
+        "created_at": "2023-09-14T13:24:53.752Z",
+        "updated_at": "2023-09-15T03:28:37.187Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "b91eddb9-97f6-441a-9759-712c26fa170e",
+        "current_day_sales": 33608,
+        "week_to_date_sales": 8356,
+        "average_order_amount": 65792,
+        "total_orders": 18398,
+        "created_at": "2023-09-14T14:57:59.989Z",
+        "updated_at": "2023-09-14T21:42:49.935Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "b60b6ed6-6303-45ab-a183-a3206ffb3063",
+        "current_day_sales": 70504,
+        "week_to_date_sales": 47709,
+        "average_order_amount": 27725,
+        "total_orders": 85372,
+        "created_at": "2023-09-14T17:54:55.930Z",
+        "updated_at": "2023-09-14T14:38:59.537Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "d1913b57-27a7-4e1b-8bc2-0e7b6c772ddf",
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "customer_phone": "1234567890",
+        "customer_address": "123 Main St",
+        "created_at": "2023-09-14T19:29:58.461Z",
+        "updated_at": "2023-09-14T22:25:12.187Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e13c048d-da6e-489c-81eb-abbfbb611beb",
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_phone": "9876543210",
+        "customer_address": "456 Elm St",
+        "created_at": "2023-09-15T02:37:02.105Z",
+        "updated_at": "2023-09-14T13:59:40.847Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "dab00d26-bb27-49b1-903d-fd917182e574",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "5555555555",
+        "customer_address": "789 Oak St",
+        "created_at": "2023-09-14T10:11:52.472Z",
+        "updated_at": "2023-09-15T07:36:17.069Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "291d31b7-9d3a-48c3-808b-4dc3fc49f939",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "1111111111",
+        "customer_address": "321 Pine St",
+        "created_at": "2023-09-14T19:54:00.774Z",
+        "updated_at": "2023-09-14T14:42:42.493Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "6903f3d4-1262-44fe-a0e5-36229f0e197a",
+        "customer_name": "Robert Wilson",
+        "customer_email": "robert.wilson@example.com",
+        "customer_phone": "9999999999",
+        "customer_address": "654 Maple St",
+        "created_at": "2023-09-14T17:45:36.727Z",
+        "updated_at": "2023-09-15T04:31:37.303Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fca6befd-0a64-4bc4-b209-dcd7479c31a2",
+        "email": "Nedra48@hotmail.com",
+        "firstName": "Dixie",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/886.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ce4bf9b6-e17b-40b3-aecb-fe08cf768450",
+        "email": "Karianne.McLaughlin@hotmail.com",
+        "firstName": "Rasheed",
+        "lastName": "Rutherford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12438803",
+        "tenantId": null
+      },
+      {
+        "reference": "275be423-b6a6-4e25-881c-e69a178c1557",
+        "email": "Sanford.OKon@gmail.com",
+        "firstName": "Wendy",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76683965",
+        "tenantId": null
+      },
+      {
+        "reference": "8b5ce66e-f578-4996-8ba9-e9e7b6b95056",
+        "email": "Lucious.Labadie@hotmail.com",
+        "firstName": "Elwin",
+        "lastName": "Wyman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/814.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "002e6773-b7ea-4505-b801-ab866d4ea7c7",
+        "email": "Arch.Kilback58@yahoo.com",
+        "firstName": "Zachery",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/389.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "5a69bc82-65b4-4b6a-a995-effded6a4dc5",
+        "product_name": "Smartphone",
+        "product_price": 52480,
+        "product_description": "The latest smartphone with advanced features",
+        "product_stock": 25200,
+        "created_at": "2023-09-14T09:42:53.413Z",
+        "updated_at": "2023-09-14T09:05:50.022Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "6adb6ee1-478c-46e3-9439-2b78b97aa235",
+        "product_name": "Designer Dress",
+        "product_price": 98750,
+        "product_description": "A stylish dress for special occasions",
+        "product_stock": 62658,
+        "created_at": "2023-09-14T23:30:39.903Z",
+        "updated_at": "2023-09-14T18:02:35.587Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "2a444899-20bf-4116-846a-732bc65294d7",
+        "product_name": "Investment Plan",
+        "product_price": 97763,
+        "product_description": "A reliable investment plan for your future",
+        "product_stock": 90482,
+        "created_at": "2023-09-15T04:33:39.913Z",
+        "updated_at": "2023-09-14T16:43:20.344Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "b7ff083c-b644-48a7-ad92-74d1103e9ac4",
+        "product_name": "Gourmet Pizza",
+        "product_price": 2179,
+        "product_description": "Delicious pizza made with fresh ingredients",
+        "product_stock": 56004,
+        "created_at": "2023-09-14T21:24:17.148Z",
+        "updated_at": "2023-09-15T06:15:21.580Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "ea7452f0-7c9b-4c9c-be05-4303b15ff255",
+        "product_name": "Fitness Tracker",
+        "product_price": 2282,
+        "product_description": "A smart wearable device to track your fitness",
+        "product_stock": 3406,
+        "created_at": "2023-09-14T15:32:21.121Z",
+        "updated_at": "2023-09-14T11:03:54.159Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "bb8917e9-d1f8-43d2-bfaf-4ba0f50b17bd",
+        "order_amount": 71979,
+        "order_date": "2023-09-14T14:55:21.980Z",
+        "order_status": "Pending",
+        "order_number": "#12345",
+        "created_at": "2023-09-14T20:21:53.681Z",
+        "updated_at": "2023-09-14T19:40:20.978Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "a2decfcf-b046-4a7d-83b4-be552507005b",
+        "order_amount": 73787,
+        "order_date": "2023-09-14T23:49:14.800Z",
+        "order_status": "Processing",
+        "order_number": "#23456",
+        "created_at": "2023-09-15T08:13:09.689Z",
+        "updated_at": "2023-09-15T02:19:05.084Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "d3616068-80af-4499-b774-32c351b0ae56",
+        "order_amount": 18691,
+        "order_date": "2023-09-15T06:46:44.261Z",
+        "order_status": "Shipped",
+        "order_number": "#34567",
+        "created_at": "2023-09-14T10:00:54.107Z",
+        "updated_at": "2023-09-15T06:08:40.028Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "03052f32-cd32-4bfc-a4af-733a5cac0996",
+        "order_amount": 24831,
+        "order_date": "2023-09-14T12:27:00.764Z",
+        "order_status": "Delivered",
+        "order_number": "#45678",
+        "created_at": "2023-09-15T08:33:49.083Z",
+        "updated_at": "2023-09-15T06:53:50.930Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e2d5353e-915a-4b49-83fa-78f6ec45bbeb",
+        "order_amount": 22503,
+        "order_date": "2023-09-14T10:48:30.510Z",
+        "order_status": "Cancelled",
+        "order_number": "#56789",
+        "created_at": "2023-09-14T15:30:10.188Z",
+        "updated_at": "2023-09-14T14:34:26.238Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "a61d8705-3d8e-4061-a5c8-72347145136b",
+        "current_day_sales": 26372,
+        "week_to_date_sales": 59108,
+        "average_order_amount": 34991,
+        "total_orders": 25022,
+        "created_at": "2023-09-15T02:33:03.097Z",
+        "updated_at": "2023-09-14T15:47:24.968Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "3709eced-49d6-4104-b504-efd996c8b55c",
+        "current_day_sales": 5421,
+        "week_to_date_sales": 7956,
+        "average_order_amount": 98007,
+        "total_orders": 39366,
+        "created_at": "2023-09-14T20:07:59.043Z",
+        "updated_at": "2023-09-14T23:06:23.419Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c5e6ca43-f430-415a-a764-d3fcf218e54f",
+        "current_day_sales": 9077,
+        "week_to_date_sales": 91706,
+        "average_order_amount": 79838,
+        "total_orders": 65734,
+        "created_at": "2023-09-14T20:57:12.425Z",
+        "updated_at": "2023-09-15T06:09:09.975Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "b3249c36-3221-476f-aaa1-c06fbb2b5af0",
+        "current_day_sales": 92905,
+        "week_to_date_sales": 97382,
+        "average_order_amount": 22360,
+        "total_orders": 70484,
+        "created_at": "2023-09-14T11:46:23.133Z",
+        "updated_at": "2023-09-14T19:22:22.691Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "49112cdd-3891-4d02-a1a5-c0ffc6c5ebbd",
+        "current_day_sales": 70769,
+        "week_to_date_sales": 78619,
+        "average_order_amount": 22026,
+        "total_orders": 99928,
+        "created_at": "2023-09-15T04:38:27.437Z",
+        "updated_at": "2023-09-15T08:19:52.349Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "e6eb346d-3eed-4033-8987-eecd3dab9ac4",
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "customer_phone": "1234567890",
+        "customer_address": "123 Main St",
+        "created_at": "2023-09-14T12:01:09.302Z",
+        "updated_at": "2023-09-14T22:55:36.657Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8232bdea-6904-4cef-aaca-b30499ad6edd",
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "customer_phone": "9876543210",
+        "customer_address": "456 Elm St",
+        "created_at": "2023-09-14T09:55:05.627Z",
+        "updated_at": "2023-09-15T00:53:49.605Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "6d15eb90-5242-4af5-8934-647e32276d7b",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "5555555555",
+        "customer_address": "789 Oak St",
+        "created_at": "2023-09-14T20:30:17.120Z",
+        "updated_at": "2023-09-14T08:47:19.593Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "108d26d7-d8cc-4f90-9e41-b30defa76c3f",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "1111111111",
+        "customer_address": "321 Pine St",
+        "created_at": "2023-09-15T05:33:04.610Z",
+        "updated_at": "2023-09-15T07:02:45.001Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f16742fc-a5c3-45a1-bef7-ec1f25b42411",
+        "customer_name": "Robert Wilson",
+        "customer_email": "robert.wilson@example.com",
+        "customer_phone": "9999999999",
+        "customer_address": "654 Maple St",
+        "created_at": "2023-09-15T08:37:19.711Z",
+        "updated_at": "2023-09-15T00:55:06.519Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "eeaf55ba-baf3-412e-b7e6-4fc6e45b2597",
+        "email": "Sage64@yahoo.com",
+        "firstName": "Rogelio",
+        "lastName": "Johnston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8507545",
+        "tenantId": null
+      },
+      {
+        "reference": "98b7b072-edc5-4837-a3f3-81b820f1ad1d",
+        "email": "Willy80@hotmail.com",
+        "firstName": "Concepcion",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/552.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "13279b6f-02d5-494c-8fdd-a10a690d11b5",
+        "email": "Nedra.Pacocha44@hotmail.com",
+        "firstName": "Rex",
+        "lastName": "Bode",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1007.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b539db33-ef90-4cd4-948a-925aa432c440",
+        "email": "Nico_Shields@yahoo.com",
+        "firstName": "Corine",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/222.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "58f20ca5-8bee-4a48-b3e7-d8b12f2f6aeb",
+        "email": "Gregorio.Schultz@hotmail.com",
+        "firstName": "Randy",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6201882",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "60ea2d4a-dcda-4467-b502-eb1d991c6486",
+        "product_name": "Organic Kale",
+        "product_price": 32086,
+        "product_description": "Fresh and locally grown kale, perfect for salads and smoothies",
+        "product_stock": 67919,
+        "created_at": "2023-09-14T09:22:41.148Z",
+        "updated_at": "2023-09-14T19:33:22.408Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f326e4f8-c4c6-4120-b600-4977d06db1a6",
+        "product_name": "Handcrafted Leather Bag",
+        "product_price": 79271,
+        "product_description": "Handmade genuine leather bag with multiple compartments",
+        "product_stock": 7180,
+        "created_at": "2023-09-15T01:47:00.709Z",
+        "updated_at": "2023-09-15T08:12:28.976Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "61562264-a6c1-4e6b-b6d5-f4a8054d174f",
+        "product_name": "Bluetooth Wireless Earbuds",
+        "product_price": 18663,
+        "product_description": "High-quality wireless earbuds with noise cancellation",
+        "product_stock": 17535,
+        "created_at": "2023-09-14T19:10:58.155Z",
+        "updated_at": "2023-09-15T00:51:16.678Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "cf1c0b69-02a5-4f5f-ae05-ded632c5b041",
+        "product_name": "Antique Brass Table Lamp",
+        "product_price": 83706,
+        "product_description": "Elegant table lamp with a vintage touch",
+        "product_stock": 59309,
+        "created_at": "2023-09-15T02:18:39.757Z",
+        "updated_at": "2023-09-14T14:33:49.674Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "7d989853-2d5a-4ed2-acb3-a08e3905db79",
+        "product_name": "Natural Soy Candle",
+        "product_price": 14398,
+        "product_description": "Scented soy candle made from natural ingredients",
+        "product_stock": 36404,
+        "created_at": "2023-09-14T23:52:21.204Z",
+        "updated_at": "2023-09-14T11:45:25.554Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "order": [
+      {
+        "id": "825f8d40-6898-4429-ad3f-29759b815a22",
+        "order_amount": 42953,
+        "order_date": "2023-09-14T17:54:25.211Z",
+        "order_status": "Pending",
+        "order_number": "#12345",
+        "created_at": "2023-09-14T19:55:51.351Z",
+        "updated_at": "2023-09-15T07:40:28.150Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "c8878b8b-1578-46bd-bc1e-eb960e66ffa3",
+        "order_amount": 99137,
+        "order_date": "2023-09-14T18:17:40.765Z",
+        "order_status": "Processing",
+        "order_number": "#67890",
+        "created_at": "2023-09-14T09:31:33.694Z",
+        "updated_at": "2023-09-14T09:35:07.682Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "f56976d5-c9d4-4f11-a38f-997fe688b776",
+        "order_amount": 43520,
+        "order_date": "2023-09-15T07:58:09.910Z",
+        "order_status": "Shipped",
+        "order_number": "#24680",
+        "created_at": "2023-09-14T19:44:53.941Z",
+        "updated_at": "2023-09-14T20:26:24.481Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "7f8d6e6f-d344-4149-83a0-f43163462099",
+        "order_amount": 47908,
+        "order_date": "2023-09-14T09:46:23.404Z",
+        "order_status": "Delivered",
+        "order_number": "#13579",
+        "created_at": "2023-09-15T01:58:56.511Z",
+        "updated_at": "2023-09-14T18:45:08.196Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "8047c867-39cb-4d68-96cb-d6ce3bdf98fe",
+        "order_amount": 38201,
+        "order_date": "2023-09-14T18:05:57.818Z",
+        "order_status": "Cancelled",
+        "order_number": "#97531",
+        "created_at": "2023-09-15T00:03:15.564Z",
+        "updated_at": "2023-09-15T07:03:50.291Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "dashboard": [
+      {
+        "id": "b4c02405-6a48-49d4-8faf-31a8f463afda",
+        "current_day_sales": 23140,
+        "week_to_date_sales": 63448,
+        "average_order_amount": 21570,
+        "total_orders": 52571,
+        "created_at": "2023-09-14T13:12:39.637Z",
+        "updated_at": "2023-09-14T08:41:55.156Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "31b3689f-ccd9-4d64-87ca-25e3738e4c8c",
+        "current_day_sales": 17224,
+        "week_to_date_sales": 93286,
+        "average_order_amount": 56581,
+        "total_orders": 30691,
+        "created_at": "2023-09-15T06:41:54.325Z",
+        "updated_at": "2023-09-15T03:48:05.056Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "7a0b1219-1b1f-41f4-ae24-dca0d7127154",
+        "current_day_sales": 65002,
+        "week_to_date_sales": 29067,
+        "average_order_amount": 45737,
+        "total_orders": 87042,
+        "created_at": "2023-09-15T04:41:58.539Z",
+        "updated_at": "2023-09-15T08:00:16.439Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "9d672671-1bf2-40b8-8969-41af3b26c539",
+        "current_day_sales": 15073,
+        "week_to_date_sales": 29119,
+        "average_order_amount": 47260,
+        "total_orders": 35973,
+        "created_at": "2023-09-15T00:16:22.739Z",
+        "updated_at": "2023-09-15T04:38:26.999Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e70faead-f6e3-4f27-9046-23fea0911ce7",
+        "current_day_sales": 85661,
+        "week_to_date_sales": 22268,
+        "average_order_amount": 30655,
+        "total_orders": 96470,
+        "created_at": "2023-09-15T01:53:28.827Z",
+        "updated_at": "2023-09-14T12:23:57.772Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "b5cfc49e-20a4-40bb-b9fb-4fac0126bb06",
+        "customer_name": "John Smith",
+        "customer_email": "john.smith@example.com",
+        "customer_phone": "123-456-7890",
+        "customer_address": "123 Main St, Anytown, USA",
+        "created_at": "2023-09-14T09:51:33.246Z",
+        "updated_at": "2023-09-14T18:26:12.283Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "17f2b077-480d-4c2e-ac68-cb36d57e87c4",
+        "customer_name": "Jane Doe",
+        "customer_email": "jane.doe@example.com",
+        "customer_phone": "555-123-4567",
+        "customer_address": "456 Elm St, Otherville, USA",
+        "created_at": "2023-09-14T09:30:58.558Z",
+        "updated_at": "2023-09-15T00:22:03.466Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "cd875afa-c656-4e90-801e-5831d8b11db3",
+        "customer_name": "Michael Brown",
+        "customer_email": "michael.brown@example.com",
+        "customer_phone": "987-654-3210",
+        "customer_address": "789 Oak Ave, Somewhere, USA",
+        "created_at": "2023-09-15T07:27:54.731Z",
+        "updated_at": "2023-09-15T06:50:00.762Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "5457af0d-e06f-43a0-949c-2c50d9aeb367",
+        "customer_name": "Sarah Jones",
+        "customer_email": "sarah.jones@example.com",
+        "customer_phone": "456-789-1234",
+        "customer_address": "987 Pine Rd, Nowhere, USA",
+        "created_at": "2023-09-14T23:44:49.049Z",
+        "updated_at": "2023-09-15T08:33:31.301Z",
+        "business_id": "main_entity_pk"
+      },
+      {
+        "id": "e9e397d7-bd71-47f2-b241-5c0f12ce936a",
+        "customer_name": "David Wilson",
+        "customer_email": "david.wilson@example.com",
+        "customer_phone": "321-654-9870",
+        "customer_address": "654 Maple Dr, Anywhere, USA",
+        "created_at": "2023-09-15T05:27:50.048Z",
+        "updated_at": "2023-09-14T11:30:08.725Z",
+        "business_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "33816978-59e5-464d-b6e0-3e24b297e536",
+        "email": "Willard_Walsh@yahoo.com",
+        "firstName": "Josefina",
+        "lastName": "Wintheiser",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/226.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9a6a141d-6a8e-4eaf-b5fa-693deb61347d",
+        "email": "Jameson83@gmail.com",
+        "firstName": "Izabella",
+        "lastName": "Kuhn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86850186",
+        "tenantId": null
+      },
+      {
+        "reference": "f63332d8-4288-4190-a74e-13c24516c8e7",
+        "email": "Liliana63@gmail.com",
+        "firstName": "Frank",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63143766",
+        "tenantId": null
+      },
+      {
+        "reference": "6dee9ac8-38b6-45e7-a560-fac584025309",
+        "email": "Adaline0@hotmail.com",
+        "firstName": "Antoinette",
+        "lastName": "Wisoky",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/308.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "246a3cdf-eb43-4ca0-99e8-7e8a2cca6570",
+        "email": "Hellen_OHara23@gmail.com",
+        "firstName": "Jared",
+        "lastName": "Nienow",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58951460",
+        "tenantId": null
+      }
+    ]
+  }
+]
